@@ -14,18 +14,19 @@ The names and id numbers of the patients were recently removed from the database
 # Attribute Information:
 
 Clinical Attributes: (take values 0, 1, 2, 3, unless otherwise indicated)
-1. rythema
-2. caling
-3. efinite borders
-4. itching
-5. koebner phenomenon
-6. polygonal papules
-7. follicular papules
-8. oral mucosal involvement
-9. knee and elbow involvement
-10. scalp involvement
-11. family history, (0 or 1)
-34. Age (linear)
+- 1: erythema
+- 2: scaling
+- 3: definite borders
+- 4: itching
+- 5: koebner phenomenon
+- 6: polygonal papules
+- 7: follicular papules
+- 8: oral mucosal involvement
+- 9: knee and elbow involvement
+- 10: scalp involvement
+- 11: family history, (0 or 1)
+- 34: Age (linear)
+
 
 # Histopathological Attributes: (take values 0, 1, 2, 3)
 
